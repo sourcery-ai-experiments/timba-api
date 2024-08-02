@@ -1089,3 +1089,4 @@ Sacar el valor del atributo `MontoPago` del elemento `Beneficiario`
 
 ### URL token
 [x] Either user a [criptographically secure random number](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html#secure-random-number-generation) or JWT
+
